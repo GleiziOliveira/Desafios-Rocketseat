@@ -4,7 +4,7 @@
 O Bora Codar é um desafio exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
-![preview](./.github/preview.png)
+![preview](assets/preview.png)
 
 > Desafio do BoraCodar
 
