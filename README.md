@@ -29,8 +29,8 @@ Os projetos são desenvolvidos com as tecnologias
 
 ## 💻 Trilha Explorer
 
-- [Adivinhe um número](https://frabjous-figolla-8e249a.netlify.app/)
-- [Biscoito da Sorte](https://frabjous-figolla-8e249a.netlify.app/)
+- [Adivinhe um número](https://codepen.io/gleizioliveira/pen/jOJaXrB)
+- [Biscoito da Sorte](https://65b5381c4d919aba2dbf5312--tourmaline-mochi-7d59e6.netlify.app)
 
 ## Licença
 
