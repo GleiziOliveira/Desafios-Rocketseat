@@ -1,11 +1,13 @@
-# BoraCodar
+# Desafios da Rocketseat
 
 <p align="center">
-O Bora Codar é um desafio exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-  Esses desafios vem ocorrendo desde o início do ano e durante esse tempo, eu participei dos desafios. <br/>
+Esse repo é um compilado de desafios desenvolvidos atraves de conteudo da Rocketsear começando com o Bora Codar que é um desafio exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+  Esses desafios vem ocorrendo desde o início do ano e durante esse tempo, eu participei dos desafios.
+  Tem também os desafios da trilha Explorer <br/>
 </p>
 
 > Desafio do BoraCodar
+> Trilhar Explorar
 
 ## 🚀 Tecnologias
 
@@ -24,6 +26,11 @@ Os projetos são desenvolvidos com as tecnologias
 - [Desafio - 23](https://64fb6232fa00dc3981fbc0be--grand-manatee-4ddafa.netlify.app/)
 - [Desafio - 30](https://64fb624adb4b093689a184af--moonlit-sundae-aca029.netlify.app/)
 - [Desafio - 34](https://64fb626205e2893c33d49414--frolicking-vacherin-b03448.netlify.app/)
+
+## 💻 Trilha Explorer
+
+- [Adivinhe um número](https://frabjous-figolla-8e249a.netlify.app/)
+- [Biscoito da Sorte](https://frabjous-figolla-8e249a.netlify.app/)
 
 ## Licença
 
