@@ -31,6 +31,8 @@ Os projetos são desenvolvidos com as tecnologias
 
 - [Adivinhe um número](https://codepen.io/gleizioliveira/pen/jOJaXrB)
 - [Biscoito da Sorte](https://65b5381c4d919aba2dbf5312--tourmaline-mochi-7d59e6.netlify.app)
+- [Calculadora de IMC](https://65b7078b41423dcb95507a03--fanciful-crumble-a74a3d.netlify.app)
+- [FocusTimer](https://65b707c741423dcbbb507989--tangerine-gelato-443546.netlify.app)
 
 ## Licença
 
