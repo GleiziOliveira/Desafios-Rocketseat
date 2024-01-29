@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+       <script src="./scripts/script.js" defer type="module"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>IMC</title>
+  </head>
+  <body>
+    <nav class="alert-error">
+      <span>Digite Somente números</span>
+    </nav>
+    <main class="container">
+      <section class="card">
+        <form action="">
+          <h1 class="title">Calculo de IMC</h1>
+          <div class="input-wraper">
+            <label for="weight">Peso (Kg)</label>
+            <input id="weight" type="text" placeholder="60" />
+          </div>
+          <div class="input-wraper">
+            <label for="height">Altura (cm)</label>
+            <input id="height" type="text" placeholder="160" />
+          </div>
+          <button type="submit">
+            Calcular IMC
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="17"
+              height="16"
+              viewBox="0 0 17 16"
+              fill="none"
+            >
+              <path
+                d="M3.1685 8.26205L14.3589 8.26213M14.3589 8.26213L9.64488 3.54808M14.3589 8.26213L9.64488 12.9762"
+                stroke="white"
+                stroke-width="1.20972"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </form>
+      </section>
+    </main>
+    <nav class="modal-wrapper  " >
+      <div class="modal card">
+        <h2 class="title">
+          <button class="close">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="14"
+              height="14"
+              viewBox="0 0 14 14"
+              fill="none"
+            >
+              <path
+                d="M14 1.41L12.59 0L7 5.59L1.41 0L0 1.41L5.59 7L0 12.59L1.41 14L7 8.41L12.59 14L14 12.59L8.41 7L14 1.41Z"
+                fill="#0C3440"
+                fill-opacity="0.6"
+              />
+            </svg>
+          </button>
+          <spam id="message-modal">Seu IMC é de.....</spam>
+        </h2>
+      </div>
+    </nav>
+
+ 
+  </body>
+</html>
